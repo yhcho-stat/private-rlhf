@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling"
+type: software
+authors:
+  - family-names: Cho
+    given-names: Young Hyun
+  - family-names: Sun
+    given-names: Will Wei
+repository-code: "https://github.com/yhcho-stat/private-rlhf"
+url: "https://arxiv.org/abs/2603.22563"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-30
+preferred-citation:
+  type: article
+  title: "Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling"
+  authors:
+    - family-names: Cho
+      given-names: Young Hyun
+    - family-names: Sun
+      given-names: Will Wei
+  journal: "Statistical Learning and Data Science"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.22563"
