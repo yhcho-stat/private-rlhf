@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.40.0
+datasets
+peft
+opacus==1.5.4
+accelerate
+safetensors
+numpy
+pandas
+tqdm
