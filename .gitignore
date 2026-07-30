@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Generated experiment outputs and model artifacts
+artifacts/
+cache/
+bon_latency/
+qual_candidates/
+qual_candidates_mixedT/
+master_results.csv
+qualitative_generations.csv
+qual_ours_mixedT.csv
