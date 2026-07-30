@@ -76,7 +76,3 @@ The notebooks install their core dependencies directly in Colab. For a separate 
 ```bash
 pip install -r requirements.txt
 ```
-
-## License
-
-The code is available under the MIT License.
