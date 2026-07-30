@@ -77,20 +77,6 @@ The notebooks install their core dependencies directly in Colab. For a separate 
 pip install -r requirements.txt
 ```
 
-## Citation
-
-```bibtex
-@article{cho2026privacy,
-  title   = {Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling},
-  author  = {Cho, Young Hyun and Sun, Will Wei},
-  journal = {Statistical Learning and Data Science},
-  year    = {2026},
-  note    = {Accepted},
-  eprint  = {2603.22563},
-  archivePrefix = {arXiv}
-}
-```
-
 ## License
 
 The code is available under the MIT License.
